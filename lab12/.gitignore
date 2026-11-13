@@ -1,0 +1,6 @@
+# Compiled output
+bin/
+*.class
+
+# OS / editor files
+.DS_Store
